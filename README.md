@@ -1,5 +1,5 @@
 ## Lab 03 - Intro to Javascript
-Name: Luke Bradley
+Name: _______________________________________
 
 ## DUE: 24 Sep 2017 @ 11:59 pm
 
